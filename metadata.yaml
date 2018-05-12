@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '43665'
     url: http://www.gutenberg.org/2009/agents/43665
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46222#The-Fantasy-Fan-September-1933The-Fan-s-Own-Magazine
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2014-07-08'
 gutenberg_type: Text
